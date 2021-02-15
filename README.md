@@ -1,4 +1,4 @@
-# Programing_Books_Seaborn_Visualisation
+# Programing_Books_Seaborn_Visualization
 This project was created by using the knowledge acquired from the [Complete Data Science & Machine Learning Bootcamp in Python](https://www.udemy.com/course/data-science-bootcamp-in-python/) on Udemy. In this course, I learned how to get started in data science by using NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Dask, LightGBM, XGBoost, CatBoost, Streamlit, Power BI & much more.
 # Visualization with [MatPlotLib](https://github.com/matplotlib/matplotlib) and [Seaborn](https://seaborn.pydata.org/).
 For this project, a dataset[prog_book.csv](https://www.kaggle.com/thomaskonstantin/top-270-rated-computer-science-programing-books?select=prog_book.csv) was used which includes information about data of 270 books in the field of computer science and programming related topics. In this project, different methods of visualization such as violinplot, swarmplot, boxplot, Kernel Density Estimation, Seaborn Hexagonal Bins etc. were used, correlation matrices were created. 
